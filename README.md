@@ -40,6 +40,3 @@ CREDITS:
 * Design Lead - Niema Widaha - https://github.com/anemokid
 * Project Manager - Daniel Cortes - https://github.com/resilientLearner
 
-Get the Beta on Google Play!
-
-https://play.google.com/store/apps/details?id=com.tap.vivianbabiryekulumba.townhall
